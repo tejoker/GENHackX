@@ -1,0 +1,10 @@
+numpy
+geopandas
+rasterio
+xarray
+scikit-image
+esda
+libpysal
+pyogrio
+rioxarray
+python-docx
